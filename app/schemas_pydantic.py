@@ -22,7 +22,7 @@ class UserOut(BaseModel):
 class PostResponse(Post):
     title: str
     content: str
-    published: bool
+    published: bool # type: ignore
     id : int
     user_id: int
     

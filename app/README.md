@@ -1,0 +1,1 @@
+This is a FastAPI web backend service for Twitter Like social media app. This service comes with JWT authentication, Postgresql integration for datatbase, Sqlalchemy for sql database commands and Alembic database migrations
